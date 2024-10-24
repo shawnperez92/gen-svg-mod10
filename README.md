@@ -8,3 +8,6 @@ This is a command-line application that generates a custom SVG logo based on use
    ```bash
    git clone https://github.com/your-repo/svg-logo-generator
    cd svg-logo-generator
+
+## Walkthrough Video
+Link: 

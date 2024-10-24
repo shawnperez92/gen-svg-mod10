@@ -11,7 +11,7 @@ function generateSVG(text, textColor, shapeInstance) {
   const svgContent = `
     <svg xmlns="http://www.w3.org/2000/svg" width="${svgWidth}" height="${svgHeight}">
       ${shapeInstance.render()}
-      <text x="150" y="125" font-size="40" text-anchor="middle" fill="${textColor}">${text}</text>
+      <text x="150" y="115" font-size="40" text-anchor="middle" fill="${textColor}">${text}</text>
     </svg>
   `;
 
